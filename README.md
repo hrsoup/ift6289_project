@@ -14,7 +14,7 @@ We use a single GPU (NVIDIA GeForce 2080 Ti) to develop this system with:
 
 ## Usage
 
-(1.1) Using mixed poetry data and music data to train, and testing on music data.
+(1) Using mixed poetry data and music data to train, and testing on music data.
 
 ```bash
 python main_poetry.py train character
