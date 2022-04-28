@@ -1,0 +1,10 @@
+python main_poetry.py train character
+python main_poetry.py test character
+
+python main_poetry.py train tone
+python main_poetry.py test tone
+
+python main_joke.py train joke
+python main_joke.py test joke
+
+python main_baseline.py train_test 
